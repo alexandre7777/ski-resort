@@ -3,4 +3,5 @@
     <string name="country">Country : </string>
     <string name="mountain">Mountain : </string>
     <string name="number_of_km">Number of KM of slopes : </string>
+    <string name="disclaimer">Data is used for education purpose only they may be inaccurate.</string>
 </resources>
