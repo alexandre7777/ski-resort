@@ -9,7 +9,7 @@ Disclaimer : This data set is used for education purpose only, it may be inaccur
 
 ### The purpose of this project is to showcase the following Android project architecture with Jetpack components.
 
-<img width="500" alt="diagram" src="cap/schema.png"/>
+<img width="500" alt="diagram" src="cap/schema-android-room-retorfit.png"/>
 
 - Activity should include only code related to data binding.
 
