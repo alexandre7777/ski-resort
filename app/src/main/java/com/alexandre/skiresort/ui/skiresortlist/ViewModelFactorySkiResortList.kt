@@ -1,7 +1,7 @@
 package com.alexandre.skiresort.ui.skiresortlist
 
-import android.arch.lifecycle.ViewModel
-import android.arch.lifecycle.ViewModelProvider
+import androidx.lifecycle.ViewModel
+import androidx.lifecycle.ViewModelProvider
 import com.alexandre.skiresort.data.SkiResortRepo
 
 class ViewModelFactorySkiResortList(private val skiResortRepo: SkiResortRepo) : ViewModelProvider.Factory {

@@ -1,9 +1,9 @@
 package com.alexandre.skiresort.ui.skiresortlist
 
-import android.support.v7.recyclerview.extensions.ListAdapter
-import android.support.v7.util.DiffUtil
-import android.support.v7.widget.RecyclerView
 import android.view.ViewGroup
+import androidx.recyclerview.widget.DiffUtil
+import androidx.recyclerview.widget.ListAdapter
+import androidx.recyclerview.widget.RecyclerView
 import com.alexandre.skiresort.model.SkiResort
 
 class SkiResortAdapter : ListAdapter<SkiResort, RecyclerView.ViewHolder>(SKI_RESORT_COMPARATOR) {

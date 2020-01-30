@@ -1,6 +1,6 @@
 package com.alexandre.skiresort.data
 
-import android.arch.lifecycle.LiveData
+import androidx.lifecycle.LiveData
 import com.alexandre.skiresort.db.SkiResortDao
 import com.alexandre.skiresort.model.SkiResort
 import com.alexandre.skiresort.service.SkiResortListService
