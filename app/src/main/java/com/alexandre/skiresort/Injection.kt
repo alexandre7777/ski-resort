@@ -1,7 +1,7 @@
 package com.alexandre.skiresort
 
-import android.arch.lifecycle.ViewModelProvider
 import android.content.Context
+import androidx.lifecycle.ViewModelProvider
 import com.alexandre.skiresort.data.SkiResortRepo
 import com.alexandre.skiresort.db.SkiResortDatabase
 import com.alexandre.skiresort.service.SkiResortListService
